@@ -1,0 +1,14 @@
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\bin\Debug\net9.0\Lektion4B.exe
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\bin\Debug\net9.0\Lektion4B.deps.json
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\bin\Debug\net9.0\Lektion4B.runtimeconfig.json
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\bin\Debug\net9.0\Lektion4B.dll
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\bin\Debug\net9.0\Lektion4B.pdb
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.AssemblyInfoInputs.cache
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.AssemblyInfo.cs
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.csproj.CoreCompileInputs.cache
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.dll
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\refint\Lektion4B.dll
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.pdb
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\Lektion4B.genruntimeconfig.cache
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\Projekter\Lektion4B\obj\Debug\net9.0\ref\Lektion4B.dll
